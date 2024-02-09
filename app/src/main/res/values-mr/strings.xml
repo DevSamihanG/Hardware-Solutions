@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हार्डवेअर सोल्यूशन्स अॅप</string>
+    <string name="textView">हार्डवेअर सोल्यूशन्स</string>
+    <string name="Username">वापरकर्तानाव प्रविष्ट करा</string>
+    <string name="Password">पासवर्ड टाका</string>
+    <string name="Login">लॉगिन</string>
+    <string name="Register">नोंदणी करा</string>
+    <string name="UpdateProfile">प्रोफाइल अपडेट करा</string>
+    <string name="changeL">भाषा निवडा</string>
+    <string name="toast">लॉगिन यशस्वी</string>
+
+    <!--    Registration-->
+
+    <string name="textView2">नोंदणी</string>
+    <string name="username">वैध वापरकर्तानाव प्रविष्ट करा</string>
+    <string name="email">एक वैध ईमेल प्रविष्ट करा</string>
+    <string name="password">वैध पासवर्ड एंटर करा</string>
+    <string name="Phone">तुमचा फोन नंबर एंटर करा</string>
+    <string name="Reg">नोंदणी करा</string>
+
+    <!--    Update Profile-->
+    <string name="textView3">प्रोफाइल अपडेट करा</string>
+    <string name="updateduser"> वापरकर्तानाव अद्यतनित करा</string>
+    <string name="updatedemail">विद्यमान ईमेल अद्यतनित करा</string>
+    <string name="updtedpassword">विद्यमान पासवर्ड अपडेट करा</string>
+    <string name="updtedphoneno">विद्यमान फोन नंबर अपडेट करा</string>
+    <string name="updatebutton">प्रोफाइल अपडेट करा</string>
+    <string name="deleteprofile">प्रोफाइल हटवा</string>
+
+
+    <!--    Menus-->
+    <string name="ContactUs">आमच्याशी संपर्क साधा</string>
+    <string name="Logout">लॉगआउट करा</string>
+
+    <!--    Email-->
+    <string name="Text2">कृपया खाली समस्या किंवा सूचना प्रविष्ट करा:</string>
+    <string name="hint1">विषय:</string>
+    <string name="hint2">ईमेल तयार करा: </string>
+    <string name="sendemail">ई - मेल पाठवा</string>
+
+    <!--    Plier-->
+    <string name="Plier">पक्कड</string>
+    <string name="Text">कार्यक्षम वितरित करण्यासाठी\nबळकट स्टीलपासून बनावट\n₹200</string>
+
+    <!--    Screwdrivers-->
+    <string name="Screwdriver">पेचकस</string>
+    <string name="Text1">कार्यक्षम कार्यप्रदर्शन\nदेण्यासाठी बळकट मिश्र\n धातुच्या स्टीलपासून बनावट\n₹100</string>
+
+
+</resources>

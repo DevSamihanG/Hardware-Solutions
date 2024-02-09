@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हार्डवेयर सॉल्यूशंस ऐप</string>
+    <string name="textView">हार्डवेयर सॉल्यूशंस</string>
+    <string name="Username">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="Password">पास वर्ड दर्ज करें</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Register">पंजीकरण करवाना</string>
+    <string name="UpdateProfile">प्रोफ़ाइल अपडेट करें</string>
+    <string name="changeL">भाषा चुने</string>
+    <string name="toast">लॉग इन सफल</string>
+
+    <!--    Registration-->
+
+    <string name="textView2">पंजीकरण</string>
+    <string name="username">एक वैध उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="email">एक वैध ईमेल प्रविष्ट करें</string>
+    <string name="password">एक मान्य पासवर्ड दर्ज करें</string>
+    <string name="Phone">अपना फोन नंबर डालें</string>
+    <string name="Reg">पंजीकृत करें</string>
+
+    <!--    Update Profile-->
+    <string name="textView3">प्रोफ़ाइल को नवीनतम बनाओ</string>
+    <string name="updateduser">मौजूदा उपयोगकर्ता नाम अपडेट करें</string>
+    <string name="updatedemail">मौजूदा ईमेल को अपडेट करें</string>
+    <string name="updtedpassword">मौजूदा पासवर्ड अपडेट करें</string>
+    <string name="updtedphoneno">मौजूदा फ़ोन नंबर अपडेट करें</string>
+    <string name="updatebutton">प्रोफ़ाइल अपडेट करें</string>
+    <string name="deleteprofile">प्रोफ़ाइल हटाएं</string>
+
+
+    <!--    Menus-->
+    <string name="ContactUs">हमसे संपर्क करें</string>
+    <string name="Logout">लॉग आउट करें</string>
+
+    <!--    Email-->
+    <string name="Text2">कृपया नीचे समस्याएं या सुझाव दर्ज करें:</string>
+    <string name="hint1"> विषय: </string>
+    <string name="hint2">ईमेल लिखें: </string>
+    <string name="sendemail">ईमेल भेजें</string>
+
+
+
+
+
+    <!--    Plier-->
+    <string name="Plier">सरौता</string>
+    <string name="Text">कुशल देने के लिए\nमजबूत स्टील से जाली\n₹200</string>
+
+    <!--    Screwdrivers-->
+    <string name="Screwdriver">पेंचकस</string>
+    <string name="Text1"> कुशल प्रदर्शन देने\nके लिए मजबूत मिश्र धातु इस्पात\nसे जाली\n₹100</string>
+
+
+
+</resources>

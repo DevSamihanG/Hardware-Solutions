@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Hardware Solutions App</string>
+    <string name="textView">Hardware Solutions</string>
+    <string name="Username">Enter username</string>
+    <string name="Password">Enter password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="UpdateProfile">Update Profile</string>
+    <string name="changeL">Select language</string>
+    <string name="toast">Login Successful</string>
+
+
+    <!--    Registration-->
+
+    <string name="textView2">Registration</string>
+    <string name="username">Enter a valid username</string>
+    <string name="email">Enter a valid Email</string>
+    <string name="password">Enter a valid password</string>
+    <string name="Phone">Enter your phone number</string>
+    <string name="Reg">Register</string>
+
+    <!--    Update Profile-->
+
+    <string name="textView3">Update Profile</string>
+    <string name="updateduser">Update existing Username</string>
+    <string name="updatedemail">Update existing Email</string>
+    <string name="updtedpassword">Update existing password</string>
+    <string name="updtedphoneno">Update existing Phone number</string>
+    <string name="updatebutton">Update Profile</string>
+    <string name="deleteprofile">Delete Profile</string>
+
+    <!--    Menus-->
+    <string name="ContactUs">Contact Us</string>
+    <string name="Logout">Logout</string>
+
+    <!--    Email-->
+    <string name="Text2">Please enter issues or suggestions below: </string>
+    <string name="hint1">Subject: </string>
+    <string name="hint2">Compose Email: </string>
+    <string name="sendemail">Send Email</string>
+
+    <!--    Plier-->
+    <string name="Plier">Plier</string>
+    <string name="Text"> Forged from sturdy\n steel to deliver\n efficient performance\n₹100</string>
+
+    <!--    Screwdrivers-->
+    <string name="Screwdriver">Screwdriver</string>
+    <string name="Text1"> Forged from sturdy alloy\n steel to deliver\n efficient performance\n₹100</string>
+</resources>
